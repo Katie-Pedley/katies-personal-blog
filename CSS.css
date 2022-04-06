@@ -1,0 +1,36 @@
+h1{color:purple;
+text-align:center;
+font-size:100px;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+h1:hover{
+    color:white;
+}
+
+h3{text-align:center;}
+
+body{
+    background-color: pink;
+    border-style:ridge;
+    border-color:purple;
+    border-width:2cm;
+    padding: 20px;
+}
+
+/* mouse over link */
+a:hover{
+    color:red;
+}
+
+.list-left{
+    text-align: left;
+    margin-left: 0px;
+    border-style: dotted;
+    border-color: purple;
+    border-width: 0.5cm;
+}
+
+.image{
+    text-align:center;
+}
